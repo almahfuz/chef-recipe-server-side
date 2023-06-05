@@ -6,8 +6,7 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
-            {
+        "recipes": [{
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                 "ingredients": [
@@ -16,11 +15,10 @@
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
 
                 "rating": 5
-            
+
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -30,12 +28,11 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -45,13 +42,13 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             }
 
 
         ]
-      
+
     },
     {
         "id": 2,
@@ -61,8 +58,7 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
-            {
+        "recipes": [{
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                 "ingredients": [
@@ -71,11 +67,10 @@
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
 
                 "rating": 5
-            
+
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -85,12 +80,11 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -100,13 +94,13 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             }
 
 
         ]
-      
+
     },
     {
         "id": 3,
@@ -137,8 +131,7 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
-            {
+        "recipes": [{
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                 "ingredients": [
@@ -147,11 +140,10 @@
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
 
                 "rating": 5
-            
+
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -161,12 +153,11 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -176,13 +167,13 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             }
 
 
         ]
-      
+
     },
     {
         "id": 5,
@@ -192,8 +183,7 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
-            {
+        "recipes": [{
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                 "ingredients": [
@@ -202,11 +192,10 @@
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
 
                 "rating": 5
-            
+
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -216,12 +205,11 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -231,13 +219,13 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             }
 
 
         ]
-      
+
     },
     {
         "id": 6,
@@ -247,8 +235,7 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
-            {
+        "recipes": [{
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                 "ingredients": [
@@ -257,11 +244,10 @@
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
 
                 "rating": 5
-            
+
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -271,12 +257,11 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -286,13 +271,13 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             }
 
 
         ]
-      
+
     },
     {
         "id": 7,
@@ -302,8 +287,7 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
-            {
+        "recipes": [{
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                 "ingredients": [
@@ -312,11 +296,10 @@
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
 
                 "rating": 5
-            
+
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -326,12 +309,11 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -341,13 +323,13 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             }
 
 
         ]
-      
+
     },
     {
         "id": 8,
@@ -357,8 +339,7 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
-            {
+        "recipes": [{
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                 "ingredients": [
@@ -367,11 +348,10 @@
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
 
                 "rating": 5
-            
+
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -381,12 +361,11 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -396,13 +375,13 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             }
 
 
         ]
-      
+
     },
 
     {
@@ -413,8 +392,7 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
-            {
+        "recipes": [{
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                 "ingredients": [
@@ -423,11 +401,10 @@
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
 
                 "rating": 5
-            
+
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -437,12 +414,11 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             },
             {
-                "recipes": [
-                    {
+                "recipes": [{
                         "recipe_name": "vegetable Kabab",
                         "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
                         "ingredients": [
@@ -452,13 +428,13 @@
 
                         "rating": 5
                     }
-        
+
                 ]
             }
 
 
         ]
-      
 
+    }
 
 ]
