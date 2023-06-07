@@ -6,379 +6,272 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [{
+        "recipes": [
+            {
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                ],
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
                 "rating": 5
 
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             }
-
 
         ]
 
     },
     {
         "id": 2,
-        "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
-        "chef_Name": "Meaha Cosla",
+        "chef_photo": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "chef_Name": "Nike jacket",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [{
+        "recipes": [
+            {
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                ],
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
                 "rating": 5
 
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             }
-
 
         ]
 
     },
     {
         "id": 3,
-        "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
-        "chef_Name": "Meaha Cosla",
+        "chef_photo": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "chef_Name": "Grossen Gosla",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [{
-                "recipe_name": "Chimichurri Seekh Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Low Carb • Sugar Conscious • Kidney Friendly • Keto Friendly • Gluten Free • Wheat Free • Egg Free • Peanut Free • Soy Free • Fish Free • Shellfish Free • Pork Free • Crustacean Free • Celery Free • Mustard Free • Sesame Free • Lupine Free • Mollusk Free • Alcohol Free"
-                ]
-            }
-
-        ],
-        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-        "rating": 5
-    },
-    {
-        "id": 4,
-        "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
-        "chef_Name": "Meaha Cosla",
-        "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
-        "num_Recipe": 10,
-        "liked_items": 2500,
-        "recipes": [{
+        "recipes": [
+            {
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                ],
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
                 "rating": 5
 
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             }
 
+        ]
+    },
+    {
+        "id": 4,
+        "chef_photo": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=787&q=80",
+        "chef_Name": "Mari Golf",
+        "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
+        "year_experiences": 8,
+        "num_Recipe": 10,
+        "liked_items": 2500,
+        "recipes": [
+            {
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
+
+            },
+            {
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
+            },
+            {
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
+            }
 
         ]
 
     },
     {
         "id": 5,
-        "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
-        "chef_Name": "Meaha Cosla",
+        "chef_photo": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=377&q=80",
+        "chef_Name": "Louis Nick",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [{
+        "recipes": [
+            {
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                ],
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
                 "rating": 5
 
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             }
 
-
         ]
-
     },
     {
         "id": 6,
-        "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
-        "chef_Name": "Meaha Cosla",
+        "chef_photo": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
+        "chef_Name": "Nor wai",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [{
+        "recipes": [
+            {
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                ],
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
                 "rating": 5
 
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             }
-
 
         ]
 
     },
     {
         "id": 7,
-        "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
-        "chef_Name": "Meaha Cosla",
+        "chef_photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "chef_Name": " Macedo",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [{
+        "recipes": [
+            {
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                ],
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
                 "rating": 5
 
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             }
-
 
         ]
 
     },
     {
         "id": 8,
-        "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
-        "chef_Name": "Meaha Cosla",
+        "chef_photo": "https://plus.unsplash.com/premium_photo-1673830185556-63e683528914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "chef_Name": "splash Harish",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [{
+        "recipes": [
+            {
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                ],
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
                 "rating": 5
 
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             }
-
 
         ]
 
@@ -386,55 +279,37 @@
 
     {
         "id": 9,
-        "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
-        "chef_Name": "Meaha Cosla",
+        "chef_photo": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "chef_Name": "Siepman Maika",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [{
+        "recipes": [
+            {
                 "recipe_name": "vegetable Kabab",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": [
-                    "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                ],
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
                 "rating": 5
 
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             },
             {
-                "recipes": [{
-                        "recipe_name": "vegetable Kabab",
-                        "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                        "ingredients": [
-                            "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate"
-                        ],
-                        "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-
-                        "rating": 5
-                    }
-
-                ]
+                "recipe_name": "vegetable Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 5
             }
 
-
         ]
-
     }
 
 ]
