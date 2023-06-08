@@ -3,31 +3,30 @@
         "chef_photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
         "chef_Name": "Reck Dam",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
+        "year_experiences": "8 Years",
         "num_Recipe": 10,
-        "liked_items": 2500,
-        "recipes": [
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+        "liked_items": 3400,
+        "recipes": [{
+                "recipe_name": "Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Vegetarian  Pescatarian  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added  Kosher ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
 
             },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Cheese Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=268&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Vegetarian  Pescatarian  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added  Kosher ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.8
             },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Thin Crust Pepperoni Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.5
             }
 
         ]
@@ -38,29 +37,28 @@
         "chef_photo": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "chef_Name": "Nike jacket",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
+        "year_experiences": "10 Years",
         "num_Recipe": 10,
-        "liked_items": 2500,
-        "recipes": [
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+        "liked_items": 2000,
+        "recipes": [{
+                "recipe_name": "Spice Mix for Chapli Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1520252729650-ddced2015543?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Salt; Corn Powder; Red Chilli; Coriander Pomegranate Seed; Cumin Seed; Ginger; Black Pepper; Rice Starch; Garlic; Cinnamon; Citric Acid (E330); Amorphous Silicon Dioxide (E551) As Anticaking Agent; Nutmeg; Monosodium Glutamate (E621) As Flavor Enhancer; Carom Seed.",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.5
 
             },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Spice Mix for Shami Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1659275799237-cbc057d97e7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Red Chili; Salt; Black Pepper; Cumin Seed; Clove; Cinnamon; Cardamom; Monosodium Glutamate (E621) As Flavor Enhancer; Citric Acid (E330)",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.9
             },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "National, Spice Mix for Bihari Kabab, Bbq",
+                "recipe_img": "https://images.unsplash.com/photo-1654876203651-64761cbcc5cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                "ingredients": "Salt; Red Chilli; Hairy Cucumber; Black Pepper; Cumin Seed; Citric Acid (E330); Carom Seed; Caraway; Cubeb Powder; Onion; Ginger; Garlic; Long Pepper; Cardamom; Amorphous Silicon Dioxide (E551) As Anticaking Agent.",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
             }
@@ -73,31 +71,30 @@
         "chef_photo": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "chef_Name": "Grossen Gosla",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
+        "year_experiences": " 7 Years",
         "num_Recipe": 10,
-        "liked_items": 2500,
-        "recipes": [
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+        "liked_items": 4500,
+        "recipes": [{
+                "recipe_name": "Beef Pancreas",
+                "recipe_img": "https://images.unsplash.com/photo-1597398230884-35763d59ed15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmVlZiUyMCUyMG1pbmNlfGVufDB8fDB8fHwy&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Sugar Conscious  Low Sugar  Low Potassium  Kidney Friendly  Keto Friendly  Paleo  Specific Carbs  Dairy Free  Gluten Free  Wheat Free  Egg Free  Milk Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Oil Added  No Sugar Added  Fodmap Free  Kosher  ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
 
             },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Thin Crust Pepperoni Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.5
             },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Chicken Thigh",
+                "recipe_img": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=480&q=80",
+                "ingredients": "Sugar Conscious  Low Sugar  Low Potassium  Kidney Friendly  Keto Friendly  Paleo  Specific Carbs  Mediterranean  Dairy Free  Gluten Free  Wheat Free  Egg Free  Milk Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Oil Added  No Sugar Added  Fodmap Free  Kosher ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.8
             }
 
         ]
@@ -107,31 +104,31 @@
         "chef_photo": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=787&q=80",
         "chef_Name": "Mari Golf",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
+        "year_experiences": "10 Years",
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
+        "recipes": [{
+                "recipe_name": "Thin Crust Pepperoni Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added ",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.5
+            },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Beef Pancreas",
+                "recipe_img": "https://images.unsplash.com/photo-1597398230884-35763d59ed15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmVlZiUyMCUyMG1pbmNlfGVufDB8fDB8fHwy&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Sugar Conscious  Low Sugar  Low Potassium  Kidney Friendly  Keto Friendly  Paleo  Specific Carbs  Dairy Free  Gluten Free  Wheat Free  Egg Free  Milk Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Oil Added  No Sugar Added  Fodmap Free  Kosher  ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
 
             },
+
             {
-                "recipe_name": "vegetable Kabab",
+                "recipe_name": "Chicken Thigh",
                 "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "ingredients": "Sugar Conscious  Low Sugar  Low Potassium  Kidney Friendly  Keto Friendly  Paleo  Specific Carbs  Mediterranean  Dairy Free  Gluten Free  Wheat Free  Egg Free  Milk Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Oil Added  No Sugar Added  Fodmap Free  Kosher ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.8
             }
 
         ]
@@ -142,32 +139,33 @@
         "chef_photo": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=377&q=80",
         "chef_Name": "Louis Nick",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
+        "year_experiences": " 6 Years",
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
+        "recipes": [{
+                "recipe_name": "Chicken Thigh",
+                "recipe_img": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=480&q=80",
+                "ingredients": "Sugar Conscious  Low Sugar  Low Potassium  Kidney Friendly  Keto Friendly  Paleo  Specific Carbs  Mediterranean  Dairy Free  Gluten Free  Wheat Free  Egg Free  Milk Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Oil Added  No Sugar Added  Fodmap Free  Kosher ",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.8
+            },
+
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Thin Crust Pepperoni Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added ",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Beef Pancreas",
+                "recipe_img": "https://images.unsplash.com/photo-1597398230884-35763d59ed15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmVlZiUyMCUyMG1pbmNlfGVufDB8fDB8fHwy&auto=format&fit=crop&w=600&q=60",
+                "ingredients": "Sugar Conscious  Low Sugar  Low Potassium  Kidney Friendly  Keto Friendly  Paleo  Specific Carbs  Dairy Free  Gluten Free  Wheat Free  Egg Free  Milk Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Oil Added  No Sugar Added  Fodmap Free  Kosher  ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
 
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
             }
+
 
         ]
     },
@@ -176,32 +174,33 @@
         "chef_photo": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
         "chef_Name": "Nor wai",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
+        "year_experiences": " 4 years",
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
+        "recipes": [{
+                "recipe_name": "Cheese Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=268&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Vegetarian  Pescatarian  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added  Kosher ",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.8
+            },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Vegetarian  Pescatarian  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added  Kosher ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
 
             },
+
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Thin Crust Pepperoni Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.5
             }
+
 
         ]
 
@@ -211,31 +210,31 @@
         "chef_photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "chef_Name": " Macedo",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
+        "year_experiences": "10 Years",
         "num_Recipe": 10,
-        "liked_items": 2500,
-        "recipes": [
+        "liked_items": 5200,
+        "recipes": [{
+                "recipe_name": "Cheese Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=268&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Vegetarian  Pescatarian  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added  Kosher ",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.8
+            },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Vegetarian  Pescatarian  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added  Kosher ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
 
             },
+
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Thin Crust Pepperoni Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
+                "rating": 4.5
             }
 
         ]
@@ -249,28 +248,27 @@
         "year_experiences": 8,
         "num_Recipe": 10,
         "liked_items": 2500,
-        "recipes": [
+        "recipes": [{
+                "recipe_name": "Spice Mix for Shami Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1659275799237-cbc057d97e7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Red Chili; Salt; Black Pepper; Cumin Seed; Clove; Cinnamon; Cardamom; Monosodium Glutamate (E621) As Flavor Enhancer; Citric Acid (E330)",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.9
+            },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Thin Crust Pepperoni Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added ",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Vegetarian  Pescatarian  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added  Kosher ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
 
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
             }
 
         ]
@@ -282,31 +280,31 @@
         "chef_photo": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "chef_Name": "Siepman Maika",
         "chef_description": " Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy.",
-        "year_experiences": 8,
+        "year_experiences": "10 Years",
         "num_Recipe": 10,
-        "liked_items": 2500,
-        "recipes": [
+        "liked_items": 4000,
+        "recipes": [{
+                "recipe_name": "Thin Crust Pepperoni Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added ",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.5
+            },
             {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
+                "recipe_name": "Spice Mix for Shami Kabab",
+                "recipe_img": "https://images.unsplash.com/photo-1659275799237-cbc057d97e7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Red Chili; Salt; Black Pepper; Cumin Seed; Clove; Cinnamon; Cardamom; Monosodium Glutamate (E621) As Flavor Enhancer; Citric Acid (E330)",
+                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
+                "rating": 4.9
+            },
+
+            {
+                "recipe_name": "Pizza",
+                "recipe_img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "ingredients": "Sugar Conscious  Low Potassium  Kidney Friendly  Vegetarian  Pescatarian  Egg Free  Peanut Free  Tree Nut Free  Soy Free  Fish Free  Shellfish Free  Pork Free  Red Meat Free  Crustacean Free  Celery Free  Mustard Free  Sesame Free  Lupine Free  Mollusk Free  Alcohol Free  No Sugar Added  Kosher ",
                 "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
                 "rating": 5
 
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
-            },
-            {
-                "recipe_name": "vegetable Kabab",
-                "recipe_img": "https://images.unsplash.com/photo-1625944227313-4f7f68e6b3fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FiYWJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60",
-                "ingredients": "Fried smoked, fruit, vegetable, eggplant, tomato, pepper on a black plate",
-                "cooking_method": "slowly cooked and style with south Indian, on top chef made special sauce, mango sauce,cinema sauce, mint sauce and etc.  ",
-                "rating": 5
             }
 
         ]
